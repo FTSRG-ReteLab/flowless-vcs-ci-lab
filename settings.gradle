@@ -5,3 +5,10 @@ include ':train-interfaces'
 include ':train-sensor'
 include ':train-system'
 include ':train-user'
+
+dependencies {
+  // Pick one:
+
+  // 1. Use Guava in your implementation only:
+  implementation("com.google.guava:guava:28.2-jre")
+}
