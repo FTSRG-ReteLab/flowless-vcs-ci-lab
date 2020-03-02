@@ -1,8 +1,4 @@
-# This is the new heading
 
-___
-
----
 
 ***
 # Train Speed Controller
