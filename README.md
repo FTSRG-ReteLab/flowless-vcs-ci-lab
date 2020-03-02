@@ -1,7 +1,6 @@
 
-
 ***
-# This is a change made by Adam
+# This is a change made bz Bela
 
 This is a sample application for the verification laboratory.
 
