@@ -3,7 +3,7 @@
 # This is a change made bz Bela
 
 This is a sample application for the verification laboratory.
-This is a change made by PTZY5J to open a PR.
+
 ## Getting started
 
 * The application is implemented in Java.
