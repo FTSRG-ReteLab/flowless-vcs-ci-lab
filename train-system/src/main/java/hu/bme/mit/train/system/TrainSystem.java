@@ -16,11 +16,9 @@ public class TrainSystem {
 	public TrainController getController() {
 		return controller;
 	}
-
 	public TrainSensor getSensor() {
 		return sensor;
 	}
-
 	public TrainUser getUser() {
 		return user;
 	}
