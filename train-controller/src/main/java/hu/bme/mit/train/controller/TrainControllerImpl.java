@@ -11,6 +11,7 @@ public class TrainControllerImpl implements TrainController {
 
 	public TrainControllerImpl() {
 		thread = new Thread() {
+			@Override
 			public void run() {
 				thread.run();
 				try {
@@ -59,7 +60,6 @@ public class TrainControllerImpl implements TrainController {
 	@Override
 	public void setJoystickPosition(int joystickPosition) {
 		this.step = joystickPosition;
-		followSpeed();
 	}
 
 }
